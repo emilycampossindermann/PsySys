@@ -3,7 +3,7 @@
 This is the Master thesis repository of the PsySys project. It includes the following: 
 
 - The thesis report
-- The R project containing the analysis script and the data files
+- The R project containing the analysis script and data files
 - All figures used in the report
 - All recruitment material
 
